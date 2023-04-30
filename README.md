@@ -14,7 +14,7 @@ The main script for this project is Milestone_Script.py. The script will read th
 
 The MinHash algorithm effectively reduces the dimensionality of the DNA sequence data, enabling efficient comparisons between the reads and reference bins. The results show a strong correlation with the benchmark dataset, indicating that our approach successfully aligns short DNA reads to the reference genome and identifies the most similar regions. This method can be further refined and optimized for various applications in genomics, such as identifying structural variants or studying the evolution of genomes.
 
-## Contributor
+## Contributors
 
 Andy Ma
 
