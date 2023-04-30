@@ -16,6 +16,6 @@ The MinHash algorithm effectively reduces the dimensionality of the DNA sequence
 
 ## Contributors
 
-Andy Ma
+Yingxiang (Andy) Ma
 
 Peter Tian
