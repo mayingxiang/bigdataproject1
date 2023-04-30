@@ -10,6 +10,8 @@ In this project, we process and analyze genomic data from various organisms to g
 
 The main script for this project is Milestone_Script.py. The script will read the input FastQ and Fasta files containing DNA reads and reference genomes, respectively. It will then perform the MinHash algorithm to generate MinHash signatures for each DNA read and reference bin, followed by calculating the Jaccard similarity between them. The results will be stored in a list, which can be used for further analysis or visualization.
 
+https://github.com/mayingxiang/bigdataproject1/blob/main/Milestone_Script.py
+
 ## Results and Evaluation
 
 The MinHash algorithm effectively reduces the dimensionality of the DNA sequence data, enabling efficient comparisons between the reads and reference bins. The results show a strong correlation with the benchmark dataset, indicating that our approach successfully aligns short DNA reads to the reference genome and identifies the most similar regions. This method can be further refined and optimized for various applications in genomics, such as identifying structural variants or studying the evolution of genomes.
