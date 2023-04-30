@@ -1,6 +1,6 @@
 # DNA Sequence Analysis Using the MinHash Algorithm
 
-This repository contains the code and documentation for a project focused on the efficient comparison and analysis of large sets of DNA sequences using the MinHash algorithm. The primary goal of this project is to align short DNA reads to a reference genome and identify the most similar regions (bins) within the reference.
+This repository contains the code for a project focused on the efficient comparison and analysis of large sets of DNA sequences using the MinHash algorithm. The primary goal of this project is to align short DNA reads to a reference genome and identify the most similar regions (bins) within the reference.
 
 ## Overview
 
